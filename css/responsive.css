@@ -1,0 +1,189 @@
+@media(max-width:1199.98px){
+    .navbar-nav .nav-item {
+        margin-right: 8px;
+    }
+    .navbar-nav .nav-item .nav-link{
+        font-size: 16px;
+    }
+    .srch a i {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+    }
+    .navbar-brand {
+        max-width: 140px;
+    }
+    .banner-left h1 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+    .banner-left h4 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .video-box {
+        position: absolute;
+        top: 50px;
+        left: 59px;
+    }
+    .contact-form {
+        margin: -10px;
+        z-index: 99;
+        position: relative;
+    }
+    .department-srvc {
+        padding: 70px 0 70px;
+    }
+    .abt-right h5{
+        font-size: 16px;
+    }
+    .abt-right h2 {
+        font-size: 48px;
+        line-height: 50px;
+    }
+    .abt-right p {
+        color: #767676;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        margin-bottom: 10px;
+    }
+    .awards {
+        padding: 24px;
+        bottom: -88px;
+        right: -7px;
+    }
+    .portfolio-sec .head-title h2 {
+        font-size: 50px;
+        margin-bottom: 12px;
+        line-height: 65px;
+        margin-top: 20px;
+    }
+    .testimonial .head-title h2{
+        font-size: 48px;
+    }
+    .avi-right {
+        position: absolute;
+        top: 30px;
+        right: -10px;
+    }
+    .avi-detail h2{
+        font-size: 55px;
+    }
+    .avi-detail h4{
+        font-size: 26px;
+    }
+}
+@media(max-width:1199px){
+    .doctors{
+        display: none;
+    }
+}
+
+@media(max-width:991.98px){
+    .navbar-collapse{
+        display: block;
+    }
+    .navRcorner{
+        display: none;
+    }
+    .banner-left {
+        text-align: center;
+    }
+    .bnr-right {
+        margin-top: 124px;
+    }
+    .contact-form .col-md-6 {
+        margin-top: 20px;
+    }
+    .srvc-box::before{
+        left: 268px;
+    }
+    .about {
+        padding: 70px 0;
+        text-align: center;
+    }
+    .awards {
+        padding: 24px;
+        bottom: 34px;
+        right: -7px;
+    }
+    .abt-right {
+        margin-top: 40px;
+    }
+    .work-shape{
+        display: none;
+    }
+    .work-box {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .work-detail p{
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    .portfolio-sec .head-title h2 {
+        font-size: 36px;
+        margin-bottom: 12px;
+        line-height: 40px;
+        margin-top: 20px;
+    }
+    .portfolio-sec .head-title h5{
+        font-size: 14px;
+    }
+    .port-imgBox{
+        margin-bottom: 20px;
+    }
+    .review-detail h4{
+        font-size: 22px;
+    }
+    .stars i {
+        color: #000b47;
+        font-size: 16px;
+    }
+    .testimonial .item p {
+        font-size: 16px;
+        margin: 6px 0 22px;
+    }
+    .avi-detail h4 {
+        font-size: 18px;
+    }
+    .avi-detail h2 {
+        font-size: 42px;
+    }
+    .avilable-box img {
+        width: 120px;
+    }
+    .available {
+        padding: 250px 0;
+    }
+    .avilable-box {
+        padding: 86px 0;
+    }
+}
+@media(max-width:767.98px){
+    .banner-left h1 {
+        font-size: 41px;
+        line-height: 52px;
+    }
+    .blue-btn{
+        font-size: 16px;
+        line-height: 36px;
+    }
+    .awards {
+        padding: 24px;
+        bottom: -160px;
+        right: 0;
+        left: 0;
+    }
+    .abt-right {
+        margin-top: 200px;
+    }
+    .ceo{
+        display: block;
+    }
+    .working-process{
+        padding: 0;
+    }
+    
+}
